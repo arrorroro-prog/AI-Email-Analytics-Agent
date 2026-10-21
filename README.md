@@ -14,3 +14,4 @@
 ### 📊 لوحة التحكم التفاعلية الحية:
 * **[اضغطي هنا لمشاهدة الـ Dashboard التفاعلية الحية لمبيعات شركة لافندر](https://datastudio.google.com/reporting/0e6a05c6-e54a-4330-ab8e-60bc1c780709)**
 *
+[📊Click here to view the Live Interactive Lavender Sales Dashboard ](https://datastudio.google.com/reporting/4a9bbf03-2a59-4adb-8ddf-8825561de5bc)
